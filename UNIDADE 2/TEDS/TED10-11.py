@@ -18,7 +18,7 @@ else:
 
 num = []
 
-for c in range (1, 4):
+for c in range (1, 31):
     num.append(int(input('Digite um núemro:')))
 n = (int(input('Digite um número que você deseja pesquisar')))
 
